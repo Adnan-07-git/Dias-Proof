@@ -14,7 +14,7 @@ const EmergencyContacts: React.FC = () => {
     },
     {
       service: 'Poison Control',
-      number: '1-800-222-1222',
+      number: '1800-11-6117',
       description: 'Poisoning emergencies',
       icon: Heart,
       color: 'text-purple-600',
@@ -23,7 +23,7 @@ const EmergencyContacts: React.FC = () => {
     },
     {
       service: 'Red Cross Emergency',
-      number: '1-800-733-2767',
+      number: '+91-11-2371-6441',
       description: 'Disaster assistance',
       icon: MapPin,
       color: 'text-blue-600',
